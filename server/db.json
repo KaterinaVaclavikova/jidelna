@@ -1,0 +1,576 @@
+{
+  "users": [
+    {
+      "id": 1769973108873,
+      "username": "admin",
+      "password": "$2b$10$gz5jSHStOPDm9eiq6rpfIegpdP9AZdNG61vLXWNzuaMc.Xtw1HjQu",
+      "role": "ADMIN_USER",
+      "isFirstLogin": false
+    },
+    {
+      "id": 1769973108931,
+      "username": "jidelna",
+      "password": "$2b$10$wHwHsqXfBmawemtbUn/hUeMfIk2rNA8FZ8RsO5kw8bKoHLytK19ri",
+      "role": "ADMIN_MEAL",
+      "isFirstLogin": false
+    },
+    {
+      "id": 1769975639448,
+      "username": "VaclavikovaK",
+      "password": "$2b$10$CbZlNb1U2Bg8FDFUF8sBRe9GlJI671sacZVI9iYJJAVuQE0Q82hAC",
+      "role": "EMPLOYEE",
+      "firstName": "Kateřina",
+      "lastName": "Václavíková",
+      "personalNumber": "117",
+      "isFirstLogin": false
+    },
+    {
+      "id": 1770143379327,
+      "username": "VaclavikM",
+      "password": "$2b$10$McH24KNk.7o7mNt1VPIxUO8vV5OCNwHmh6bWIt7bYlRmFMyIQYOpW",
+      "role": "EMPLOYEE",
+      "firstName": "Marek",
+      "lastName": "Václavík",
+      "personalNumber": "111",
+      "isFirstLogin": false
+    }
+  ],
+  "meals": [
+    {
+      "id": 1769973726226.7012,
+      "name": "Kuřecí prso na bylinkovém másle",
+      "price": null,
+      "date": "2026-01-26"
+    },
+    {
+      "id": 1769973726229.1536,
+      "name": "Hovězí líčka na červeném víně",
+      "price": null,
+      "date": "2026-01-26"
+    },
+    {
+      "id": 1769973726230.585,
+      "name": "Krémové houbové risotto",
+      "price": null,
+      "date": "2026-01-26"
+    },
+    {
+      "id": 1769973726231.7175,
+      "name": "Lososový filet s citronovým máslem",
+      "price": null,
+      "date": "2026-01-26"
+    },
+    {
+      "id": 1769973726232.2449,
+      "name": "Borůvkové knedlíčky s vanilkou",
+      "price": null,
+      "date": "2026-01-26"
+    },
+    {
+      "id": 1769973739925.2446,
+      "name": "Vepřová panenka na pepřové omáčce",
+      "price": null,
+      "date": "2026-01-27"
+    },
+    {
+      "id": 1769973739926.1624,
+      "name": "Hovězí burger s cheddarem a karamelizovanou cibulkou",
+      "price": null,
+      "date": "2026-01-27"
+    },
+    {
+      "id": 1769973739928.8062,
+      "name": "Špagety aglio olio s parmazánem",
+      "price": null,
+      "date": "2026-01-27"
+    },
+    {
+      "id": 1769973739931.928,
+      "name": "Pečené kuřecí stehno s rozmarýnovými bramborami",
+      "price": null,
+      "date": "2026-01-27"
+    },
+    {
+      "id": 1769973739933.1704,
+      "name": "Zeleninové lasagne se sýrovou krustou",
+      "price": null,
+      "date": "2026-01-27"
+    },
+    {
+      "id": 1769973749889.1506,
+      "name": "Hovězí stroganoff s jasmínovou rýží",
+      "price": null,
+      "date": "2026-01-28"
+    },
+    {
+      "id": 1769973749891.3025,
+      "name": "Smažený sýr s domácí tatarkou",
+      "price": null,
+      "date": "2026-01-28"
+    },
+    {
+      "id": 1769973749895.1436,
+      "name": "Pečený pstruh na bylinkách",
+      "price": null,
+      "date": "2026-01-28"
+    },
+    {
+      "id": 1769973749899.3757,
+      "name": "Gnocchi se smetanovo-špenátovou omáčkou",
+      "price": null,
+      "date": "2026-01-28"
+    },
+    {
+      "id": 1769973749902.315,
+      "name": "Tiramisu v pohárku",
+      "price": null,
+      "date": "2026-01-28"
+    },
+    {
+      "id": 1769975863785.9998,
+      "name": "Kuřecí prso na bylinkovém másle",
+      "price": null,
+      "date": "2026-02-02"
+    },
+    {
+      "id": 1769975863788.197,
+      "name": "Hovězí líčka na červeném víně",
+      "price": null,
+      "date": "2026-02-02"
+    },
+    {
+      "id": 1769975863791.4968,
+      "name": "Krémové houbové risotto",
+      "price": null,
+      "date": "2026-02-02"
+    },
+    {
+      "id": 1769975863793.9612,
+      "name": "Lososový filet s citronovým máslem",
+      "price": null,
+      "date": "2026-02-02"
+    },
+    {
+      "id": 1769975863796.5327,
+      "name": "Borůvkové knedlíčky s vanilkou",
+      "price": null,
+      "date": "2026-02-02"
+    },
+    {
+      "id": 1769975865965.415,
+      "name": "Vepřová panenka na pepřové omáčce",
+      "price": null,
+      "date": "2026-02-03"
+    },
+    {
+      "id": 1769975865966.978,
+      "name": "Hovězí burger s cheddarem a karamelizovanou cibulkou",
+      "price": null,
+      "date": "2026-02-03"
+    },
+    {
+      "id": 1769975865968.6577,
+      "name": "Špagety aglio olio s parmazánem",
+      "price": null,
+      "date": "2026-02-03"
+    },
+    {
+      "id": 1769975865969.4895,
+      "name": "Pečené kuřecí stehno s rozmarýnovými bramborami",
+      "price": null,
+      "date": "2026-02-03"
+    },
+    {
+      "id": 1769975865971.4587,
+      "name": "Zeleninové lasagne se sýrovou krustou",
+      "price": null,
+      "date": "2026-02-03"
+    },
+    {
+      "id": 1769975872009.5117,
+      "name": "Hovězí stroganoff s jasmínovou rýží",
+      "price": null,
+      "date": "2026-02-04"
+    },
+    {
+      "id": 1769975872012.2312,
+      "name": "Smažený sýr s domácí tatarkou",
+      "price": null,
+      "date": "2026-02-04"
+    },
+    {
+      "id": 1769975872014.501,
+      "name": "Pečený pstruh na bylinkách",
+      "price": null,
+      "date": "2026-02-04"
+    },
+    {
+      "id": 1769975872015.8994,
+      "name": "Gnocchi se smetanovo-špenátovou omáčkou",
+      "price": null,
+      "date": "2026-02-04"
+    },
+    {
+      "id": 1769975872017.104,
+      "name": "Tiramisu v pohárku",
+      "price": null,
+      "date": "2026-02-04"
+    },
+    {
+      "id": 1769975889936.1404,
+      "name": "Svíčková na smetaně s houskovým knedlíkem",
+      "price": null,
+      "date": "2026-02-05"
+    },
+    {
+      "id": 1769975889941.211,
+      "name": "Kuřecí stripsy s hranolky",
+      "price": null,
+      "date": "2026-02-05"
+    },
+    {
+      "id": 1769975889946.9285,
+      "name": "Vepřový řízek s bramborovým salátem",
+      "price": null,
+      "date": "2026-02-05"
+    },
+    {
+      "id": 1769975889949.7156,
+      "name": "Hovězí guláš s karlovarským knedlíkem",
+      "price": null,
+      "date": "2026-02-05"
+    },
+    {
+      "id": 1769975899193.1768,
+      "name": "Penne s kuřecím masem a smetanovou omáčkou",
+      "price": null,
+      "date": "2026-02-05"
+    },
+    {
+      "id": 1769975904418.235,
+      "name": "Caesar salát s grilovaným kuřetem",
+      "price": null,
+      "date": "2026-02-06"
+    },
+    {
+      "id": 1769975904424.3127,
+      "name": "Pečená krkovice se zelím a bramborovým knedlíkem",
+      "price": null,
+      "date": "2026-02-06"
+    },
+    {
+      "id": 1769975904428.3467,
+      "name": "Špagety carbonara",
+      "price": null,
+      "date": "2026-02-06"
+    },
+    {
+      "id": 1769975904432.9043,
+      "name": "Hovězí steak s pepřovou omáčkou",
+      "price": null,
+      "date": "2026-02-06"
+    },
+    {
+      "id": 1769975904438.8274,
+      "name": "Tortilla plněná trhaným masem",
+      "price": null,
+      "date": "2026-02-06"
+    },
+    {
+      "id": 1769975913963.405,
+      "name": "Smažené kuřecí kousky v cornflakes",
+      "price": null,
+      "date": "2026-02-09"
+    },
+    {
+      "id": 1769975913967.1821,
+      "name": "Zapečené brambory se slaninou a sýrem",
+      "price": null,
+      "date": "2026-02-09"
+    },
+    {
+      "id": 1769975913971.37,
+      "name": "Rajská omáčka s masovými koulemi",
+      "price": null,
+      "date": "2026-02-09"
+    },
+    {
+      "id": 1769975913975.5864,
+      "name": "Rizoto s parmazánem",
+      "price": null,
+      "date": "2026-02-09"
+    },
+    {
+      "id": 1769975913978.828,
+      "name": "Pečený losos s bylinkovou krustou",
+      "price": null,
+      "date": "2026-02-09"
+    },
+    {
+      "id": 1769975919297.3499,
+      "name": "Segedínský guláš",
+      "price": null,
+      "date": "2026-02-10"
+    },
+    {
+      "id": 1769975919302.015,
+      "name": "Wrap s kuřecím masem",
+      "price": null,
+      "date": "2026-02-10"
+    },
+    {
+      "id": 1769975919306.5278,
+      "name": "Šunkofleky",
+      "price": null,
+      "date": "2026-02-10"
+    },
+    {
+      "id": 1769975919310.5398,
+      "name": "Bramborové noky s pestem",
+      "price": null,
+      "date": "2026-02-10"
+    },
+    {
+      "id": 1769975919313.1655,
+      "name": "Čokoládový fondant",
+      "price": null,
+      "date": "2026-02-10"
+    },
+    {
+      "id": 1769975926928.2573,
+      "name": "Vepřová panenka na pepřové omáčce",
+      "price": null,
+      "date": "2026-02-11"
+    },
+    {
+      "id": 1769975926932.9321,
+      "name": "Hovězí burger s cheddarem a karamelizovanou cibulkou",
+      "price": null,
+      "date": "2026-02-11"
+    },
+    {
+      "id": 1769975926939.9058,
+      "name": "Špagety aglio olio s parmazánem",
+      "price": null,
+      "date": "2026-02-11"
+    },
+    {
+      "id": 1769975926943.3809,
+      "name": "Pečené kuřecí stehno s rozmarýnovými bramborami",
+      "price": null,
+      "date": "2026-02-11"
+    },
+    {
+      "id": 1769975926946.9092,
+      "name": "Zeleninové lasagne se sýrovou krustou",
+      "price": null,
+      "date": "2026-02-11"
+    },
+    {
+      "id": 1769975932663.9187,
+      "name": "Hovězí stroganoff s jasmínovou rýží",
+      "price": null,
+      "date": "2026-02-12"
+    },
+    {
+      "id": 1769975932669.103,
+      "name": "Smažený sýr s domácí tatarkou",
+      "price": null,
+      "date": "2026-02-12"
+    },
+    {
+      "id": 1769975932674.9448,
+      "name": "Pečený pstruh na bylinkách",
+      "price": null,
+      "date": "2026-02-12"
+    },
+    {
+      "id": 1769975932677.285,
+      "name": "Gnocchi se smetanovo-špenátovou omáčkou",
+      "price": null,
+      "date": "2026-02-12"
+    },
+    {
+      "id": 1769975932680.6113,
+      "name": "Tiramisu v pohárku",
+      "price": null,
+      "date": "2026-02-12"
+    },
+    {
+      "id": 1769975938873.83,
+      "name": "Svíčková na smetaně s houskovým knedlíkem",
+      "price": null,
+      "date": "2026-02-13"
+    },
+    {
+      "id": 1769975938878.1094,
+      "name": "Kuřecí stripsy s hranolky",
+      "price": null,
+      "date": "2026-02-13"
+    },
+    {
+      "id": 1769975938881.3086,
+      "name": "Vepřový řízek s bramborovým salátem",
+      "price": null,
+      "date": "2026-02-13"
+    },
+    {
+      "id": 1769975938887.2473,
+      "name": "Hovězí guláš s karlovarským knedlíkem",
+      "price": null,
+      "date": "2026-02-13"
+    },
+    {
+      "id": 1769975938891.3176,
+      "name": "Penne s kuřecím masem a smetanovou omáčkou",
+      "price": null,
+      "date": "2026-02-13"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1769974257664,
+      "userId": 1769973801366,
+      "mealId": 1769973726226.7012,
+      "date": "2026-01-26"
+    },
+    {
+      "id": 1769974261117,
+      "userId": 1769973801366,
+      "mealId": 1769973749889.1506,
+      "date": "2026-01-28"
+    },
+    {
+      "id": 1769974372948,
+      "userId": 1769973801366,
+      "mealId": 1769973739933.1704,
+      "date": "2026-01-27"
+    },
+    {
+      "id": 1769976178984,
+      "userId": 1769975639448,
+      "mealId": 1769975865965.415,
+      "date": "2026-02-03",
+      "inExchange": false
+    },
+    {
+      "id": 1769976183425,
+      "userId": 1769975639448,
+      "mealId": 1769975889941.211,
+      "date": "2026-02-05",
+      "inExchange": false
+    },
+    {
+      "id": 1769976185641,
+      "userId": 1769975639448,
+      "mealId": 1769975904428.3467,
+      "date": "2026-02-06",
+      "inExchange": false
+    },
+    {
+      "id": 1769976187721,
+      "userId": 1769975639448,
+      "mealId": 1769975913967.1821,
+      "date": "2026-02-09",
+      "inExchange": false
+    },
+    {
+      "id": 1769976190073,
+      "userId": 1769975639448,
+      "mealId": 1769975919310.5398,
+      "date": "2026-02-10",
+      "inExchange": false
+    },
+    {
+      "id": 1769976191998,
+      "userId": 1769975639448,
+      "mealId": 1769975926928.2573,
+      "date": "2026-02-11",
+      "inExchange": false
+    },
+    {
+      "id": 1769976194997,
+      "userId": 1769975639448,
+      "mealId": 1769975932674.9448,
+      "date": "2026-02-12",
+      "inExchange": false
+    },
+    {
+      "id": 1769976197052,
+      "userId": 1769975639448,
+      "mealId": 1769975938878.1094,
+      "date": "2026-02-13",
+      "inExchange": false
+    },
+    {
+      "id": 1769976864586,
+      "userId": 1769975639448,
+      "mealId": 1769975872017.104,
+      "date": "2026-02-04",
+      "inExchange": false
+    },
+    {
+      "id": 1769977092821,
+      "userId": 1769975639448,
+      "mealId": 1769975863791.4968,
+      "date": "2026-02-02",
+      "inExchange": false
+    },
+    {
+      "id": 1770144928956,
+      "userId": 1770143379327,
+      "mealId": 1769975872009.5117,
+      "date": "2026-02-04",
+      "inExchange": false
+    },
+    {
+      "id": 1770144930388,
+      "userId": 1770143379327,
+      "mealId": 1769975889949.7156,
+      "date": "2026-02-05",
+      "inExchange": false
+    },
+    {
+      "id": 1770144931727,
+      "userId": 1770143379327,
+      "mealId": 1769975904432.9043,
+      "date": "2026-02-06",
+      "inExchange": false
+    },
+    {
+      "id": 1770144932602,
+      "userId": 1770143379327,
+      "mealId": 1769975913967.1821,
+      "date": "2026-02-09",
+      "inExchange": false
+    },
+    {
+      "id": 1770144934187,
+      "userId": 1770143379327,
+      "mealId": 1769975919310.5398,
+      "date": "2026-02-10",
+      "inExchange": false
+    },
+    {
+      "id": 1770144936194,
+      "userId": 1770143379327,
+      "mealId": 1769975926943.3809,
+      "date": "2026-02-11",
+      "inExchange": false
+    },
+    {
+      "id": 1770144937445,
+      "userId": 1770143379327,
+      "mealId": 1769975932663.9187,
+      "date": "2026-02-12",
+      "inExchange": false
+    },
+    {
+      "id": 1770144939734,
+      "userId": 1770143379327,
+      "mealId": 1769975938881.3086,
+      "date": "2026-02-13",
+      "inExchange": false
+    }
+  ]
+}
